@@ -13,3 +13,14 @@
     <li>Update username, photo, email, password, and other information</li>
   </ul>
 
+<ul>
+  <li><h3>Advance searching, sorting, pagination and filtering</h3></li>
+<ul>
+
+<ul>
+  <li><h3>Discount coupon code</h3></li>
+<ul>  
+
+<ul>
+  <li><h3>Add to wishlist</h3></li>
+<ul>  
