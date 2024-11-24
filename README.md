@@ -13,7 +13,8 @@
     <li>Update username, photo, email, password, and other information</li>
   </ul>
 
-<h3>Advance searching, sorting, pagination and filtering</h3>
-<h3>Discount coupon code</h3>  
+<ul><h3>Advance searching, sorting, pagination and filtering</h3></ul>
 
-<h3>Add to wishlist</h3>
+<ul><h3>Discount coupon code</h3></ul>
+
+<ul><h3>Add to wishlist</h3></ul>
