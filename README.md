@@ -28,5 +28,4 @@
   <li> <a href="https://www.mongodb.com/products/platform/atlas-database">MongoDB Atlas</a> - Cloud database service</li>
   <li> <a href="https://jwt.io/">JSON Web Token</a> - Security token</li>
   <li> <a href="https://www.postman.com/">Postman</a> - API testing</li>
-  <li> <a href="https://www.postman.com/">Postman</a> - API testing</li>
 </ul>
